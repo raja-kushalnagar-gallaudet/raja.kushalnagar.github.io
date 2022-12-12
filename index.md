@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Director, BS in Information Technology annd MS in Accessible Human-Centered Computing
 published: true
 ---
 
@@ -9,7 +9,7 @@ published: true
 
 ## About Me
 
-I am the Director of the Information Technology program in the Department of Science, Technology and Mathematics at Gallaudet University in Washington, DC. Our IT program has grown rapidly in the past few years, and we are exploring new concentrations and minors for the program, including cybersecurity and data science. My responsibilities include strategic planning, local industry & alumni relations, and faculty mentoring. As a researcher, I have over 10 years of accumulated experience working in accessible computing design. I primarily teach human-centered computing with a focus on accessible computing, and application development courses. I also teach cybersecurity related courses at both the introductory and specialized levels.
+Our BS in IT and MS in AHCC programs have grown rapidly in the past few years, and we are exploring new courses for the programs. My responsibilities include strategic planning, local industry & alumni relations, and faculty mentoring. As a researcher, I have over 12 years of experience working in accessible computing design. I primarily teach human-centered computing with a focus on accessible computing, and application development courses. I also teach cybersecurity related courses at both the introductory and specialized levels.
 
 My research interests encompass the fields of accessible computing and accessibility/intellectual property law, with the goal of improving information access for deaf and hard of hearing individuals. In the accessible computing field, I investigate information access disparities between hearing and deaf. For example, I investigate how deaf individuals acquire information through speech-to-text, e.g., enhanced captions that provide visual cues to non-speech information.
 
