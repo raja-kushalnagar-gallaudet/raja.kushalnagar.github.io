@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Director, BS in Information Technology annd MS in Accessible Human-Centered Computing
+title: Director, BS in Information Technology and Co-Director, MS in Accessible Human-Centered Computing
 published: true
 ---
 
